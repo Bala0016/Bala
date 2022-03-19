@@ -16,6 +16,7 @@ public class User{public static void main(String[] args) {
 		System.out.println(li.get(i));
 		System.out.println(li.get(i));
 		System.out.println("bala");
+		System.out.println("vela");
 
 		
 }
