@@ -11,14 +11,23 @@ public class User {
 		li.add(4);
 		li.add(3);
 		li.add(5);
-
+		
 		for (int i = 0; i < li.size(); i = i + 2) {
+				for (int j = 0; j < li.size();j=j+2) {
+					
+					System.out.println(li.get(i));
+					System.out.println(li.get(j));
+					System.out.println(li.get(i));
+					System.out.println(li.get(i));
+				}}
+					System.out.println("bala");
+					System.out.println("vela");
+					
+					System.out.println("bala");
+					System.out.println("Prasanth");
 
-			System.out.println(li.get(i));
-			System.out.println(li.get(i));
-			System.out.println("bala");
-			System.out.println("Prasanth");
 
-		}
-	}
-}
+			
+
+
+}}
